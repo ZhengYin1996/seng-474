@@ -1,0 +1,20 @@
+Undergraduate or graduate student:
+UNDERGRAD
+
+
+Your name:
+Zheng Yin
+
+
+Your email address:
+yzh19960216@hotmail.com
+
+
+Title:
+Latest Game Fashion
+
+
+2-3 sentence description:
+In my idea, it can show the dataset from steam which about the information of games. User can get the idea of which game is in the trend
+that more people are playing, and help to make decision on buying them. Also it can give some knowledge about buy some old game that 
+most people are still playing.
